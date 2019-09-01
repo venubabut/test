@@ -11,5 +11,11 @@
       "name": "test",
       "tier": "test tier",
       "node": "test node"
-    }
+    },
+    "log" : [
+{
+"root_directory": "\/tmp",
+"level": "TRACE"
+}
+]
 }
