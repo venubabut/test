@@ -1,0 +1,15 @@
+{
+    "controller": {
+      "host": "test.host.com",
+      "port": 8090,
+      "account": "test",
+      "password": "test",
+      "ssl": false,
+      "enable_tls12": false
+    },
+    "application": {
+      "name": "test",
+      "tier": "test tier",
+      "node": "test node"
+    }
+}
